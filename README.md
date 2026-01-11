@@ -1,2 +1,3 @@
 # Bio
-IT Project Manager with experience in leading ERP transformation projects. Managed the transition from SAP ECC to S/4Hana, coordinating end-to-end projects and overseeing functional financial process across multinational environments (healthcare sectors, pharmaceutical, insurance). Passionate about technological innovation: cloud transiction, blockchain revolution and data process.
+Optimization of financial landscape application, delivering automate process with SAP, Microsoft solutions. Thrive on orchestrating smooth end to end phases (from pre-sales, kickoff to go-live), managed different technical execution (cloud/on premises scenario) and bridge the gap on business strategy.
+With over a decade driving initiatives that revitalized treasury automation and enhanced financial reporting, and ensuring timely managerial deadlines.
